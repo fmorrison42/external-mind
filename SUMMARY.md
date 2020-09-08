@@ -11,11 +11,8 @@
 
 ## Incoming
 
+* [Links to Review](incoming/links-to-review.md)
 * [Bookmarks](incoming/bookmarks.md)
-
----
-
-* [Links to Review](links-to-review.md)
 
 ## Business
 
