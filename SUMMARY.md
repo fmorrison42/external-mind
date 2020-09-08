@@ -17,3 +17,7 @@
 
 * [Links to Review](links-to-review.md)
 
+## Business
+
+* [MS365 Consulting](business/ms365-consulting.md)
+
