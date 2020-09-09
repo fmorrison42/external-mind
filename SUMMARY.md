@@ -18,3 +18,7 @@
 
 * [MS365 Consulting](business/ms365-consulting.md)
 
+---
+
+* [Microsoft 365](microsoft-365.md)
+
